@@ -1,6 +1,0 @@
-These sources codes are a few example image processing codes using the library OPENCV.
-
-There are a few codes in this folder. All work well in the linux environment.
-compile using gcc -o output input.c `pkg-config opencv --cflags --libs`
-
-
